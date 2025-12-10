@@ -6,7 +6,7 @@ const app = express();
 import connectDB from "./database/connect.js";
 
 // document Router
-import DocumentRouter from "./routes/document-upload.js";
+import DocumentRouter from "./routes/document.js";
 
 app.use(express.json());
 app.use(

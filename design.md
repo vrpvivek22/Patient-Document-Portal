@@ -64,9 +64,9 @@
 
 ### 1. Frontend (React)
 
-- User uploads a file or submits a form.
+- User uploads a file via the form.
 
-- Sends request to backend using REST API.
+- Sends a request to backend using the REST API.
 
 ### 2. Backend (Node.js / Express)
 
