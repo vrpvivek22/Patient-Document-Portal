@@ -1,9 +1,16 @@
-# Patient Document Portal
+# 📄Patient Document Portal
 
 A simple **full-stack web application** for managing patient documents (PDFs).  
 This project allows users to upload, view, download, and delete PDF documents securely.
 
 Built as part of a **Full Stack Developer Intern Assessment**.
+
+---
+
+## 📸 Screenshots
+
+![Dashboard Screenshot](./frontend/src/assets/Screenshot%202026-01-01%201013.png)
+![Dashboard Screenshot](./frontend/src/assets/Screenshot%202026-01-01%20101313.png)
 
 ---
 

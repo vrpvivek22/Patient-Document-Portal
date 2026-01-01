@@ -19,7 +19,7 @@ export function Dashboard() {
     <>
       {hide ? (
         <div className=" bg-gradient-to-br from-indigo-100 to-blue-100 min-h-screen flex flex-col">
-          <header className="bg-gradient-to-b shadow-xl z-50 from-indigo-800 to-blue-600 text-center ">
+          <header className="bg-gradient-to-t shadow-xl z-50 from-indigo-800 to-blue-700 text-center ">
             <h1 className="text-4xl text-white p-8 justify-center gap-3 flex flex-row items-center font-semibold">
               <MdDescription className="text-5xl" />
               Patient Document Portal
